@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
+<h1 align="center">Hi 👋, I'm Farah Shaikh</h1>
 <h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 💫 About Me
 
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I’m **Farah Shaikh**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
 - 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
 - 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
